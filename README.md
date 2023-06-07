@@ -5,4 +5,4 @@ Manually install suitable JDK
 
 Run setup.ps1 from Powershell
 
-Bypass Powershell policy: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+Bypass Powershell policy: `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass`
